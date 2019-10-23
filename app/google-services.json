@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "810565922020",
+    "firebase_url": "https://lakshyaapp-3099d.firebaseio.com",
+    "project_id": "lakshyaapp-3099d",
+    "storage_bucket": "lakshyaapp-3099d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810565922020:android:52647051f4474e9bf190f1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810565922020-h31kbl894l68h3i2outapke73sg6k95l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "70c358396fd4fa5b751407a72439efdc7dea6b40"
+          }
+        },
+        {
+          "client_id": "810565922020-7ne0isabu2geee194524bu7ghdbootqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfc3kQmir6kUJjSQBjvW9trbtfVRIm1qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810565922020-7ne0isabu2geee194524bu7ghdbootqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
